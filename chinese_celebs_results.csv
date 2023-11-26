@@ -1,0 +1,44 @@
+,Name,Earnings, Occupation, Country,correct,incorrect,unidentified,avg_correct_confidence,avg_incorrect_confidence
+0,Fan Bingbing,300 million yuan,Actress,China,5,0,0,98.4821533203125,
+1,Lu Han,210 million yuan,Actor and Singer,China,3,2,0,98.30649312337239,97.6459846496582
+2,Yang Mi,200 million yuan,Actress,China,4,1,0,97.43736267089844,97.6873779296875
+3,Zhao Liying,190 million yuan,Actress,China,5,0,0,99.0618881225586,
+4,Yang Yang,240 million yuan,Actor,China,5,0,0,99.94842376708985,
+5,Liu Tao,180 million yuan,Actress,China,5,0,0,99.05145416259765,
+6,Jackie Chan,330 million yuan,Actor and Director,China,5,0,0,98.21685485839843,
+7,Angelababy,200 million yuan,Actress,China,5,0,0,99.48961029052734,
+8,Jay Chou,260 million yuan,Singer and Actor,Taiwan,5,0,0,98.41132202148438,
+9,Kris Wu,150 million yuan,Actor and Singer,China,4,1,0,97.36239814758301,96.90949249267578
+10,Huang Xiaoming,170 million yuan,Actor,China,3,2,0,96.65116373697917,91.61080932617188
+11,Hu Ge,55 million yuan,Actor,China,4,1,0,99.42492294311523,88.22309112548828
+12,Liu Shishi,85 million yuan,Actress,China,5,0,0,98.44585571289062,
+13,Zhang Yixing,120 million yuan,Singer and Actor,China,0,5,0,,96.99407806396485
+14,William Chan,120 million yuan,Actor and Singer,China,5,0,0,99.64729156494141,
+15,Wallace Huo,75 million yuan,Actor,China,5,0,0,99.86366424560546,
+16,Liu Yifei,40 million yuan,Actress,China,5,0,0,95.92957916259766,
+17,Jing Boran,130 million yuan,Actor and Singer,China,5,0,0,99.61104888916016,
+18,Huang Zitao,90 million yuan,Singer,China,0,5,0,,98.5703628540039
+19,Wu Xiubo,100 million yuan,Actor,China,5,0,0,99.58319549560547,
+20,Andy Lau,140 million yuan,Actor and Singer,China,5,0,0,94.59303588867188,
+21,Zhao Wei,40 million yuan,Actress,China,5,0,0,97.54263610839844,
+22,Li Bingbing,85 million yuan,Actress,China,4,1,0,98.68595504760742,90.73536682128906
+23,Huang Bo,130 million yuan,Actor,China,5,0,0,99.8114990234375,
+24,Lin Chi-Ling,145 million yuan,Actress,Taiwan,0,0,5,,
+25,Jia Nailiang,140 million yuan,Actor,China,4,1,0,96.18478012084961,88.6307601928711
+26,Chris Lee,95 million yuan,Singer,China,0,5,0,,99.47333679199218
+27,Jing Tian,50 million yuan,Actress,China,4,0,1,99.52189254760742,
+28,Mark Chao,60 million yuan,Actor,China,5,0,0,98.34163818359374,
+29,Dilraba,55 million yuan,Actress,China,5,0,0,99.91851501464843,
+30,Tong Liya,80 million yuan,Actress,China,3,2,0,96.69125111897786,86.2845344543457
+31,Zheng Shuang,70 million yuan,Actress,China,5,0,0,96.93942260742188,
+32,Chen Xuedong,75 million yuan,Actor,China,0,5,0,,98.4201644897461
+33,He Jiong,55 million yuan,TV Host,China,4,0,1,97.60468673706055,
+34,Wang Kai,70 million yuan,Actor,China,5,0,0,99.70459594726563,
+35,Lin Gengxin,100 million yuan,Actor,China,5,0,0,94.48951416015625,
+36,Xue Zhiqian,80 million yuan,Singer,China,0,5,0,,95.26429290771485
+37,Faye Wong,90 million yuan,Singer,China,5,0,0,94.49435272216797,
+38,Lu Yi,100 million yuan,Actor,China,4,1,0,94.85541725158691,96.6304702758789
+39,Shu Qi,45 million yuan,Actress,China,5,0,0,99.97348480224609,
+40,Nicky Wu,110 million yuan,Actor,China,0,1,4,,75.02680206298828
+41,Jin Dong,85 million yuan,Actor,China,4,1,0,97.55050277709961,98.71186828613281
+42,Joe Chen,85 million yuan,Actress,China,5,0,0,95.17945098876953,

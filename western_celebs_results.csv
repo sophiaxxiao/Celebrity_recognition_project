@@ -1,0 +1,30 @@
+,Name,Earnings, Occupation, Country,correct,incorrect,unidentified,avg_correct_confidence,avg_incorrect_confidence
+0,Diddy,$130 million,Musician,U.S.,0,5,0,,98.20620574951172
+1,Beyoncé,$105 million,Musician,U.S.,4,0,1,91.65681076049805,
+2,J.K. Rowling,$95 million,Author,U.K.,0,5,0,,99.1160171508789
+3,Drake,$94 million,Musician,Canada,5,0,0,96.6440444946289,
+4,The Weeknd,$92 million,Musician,Canada,4,0,1,98.87599182128906,
+5,Howard Stern,$90 million,Personality,U.S.,5,0,0,99.9516845703125,
+6,James Patterson,$87 million,Author,U.S.,5,0,0,99.53224487304688,
+7,LeBron James,$86 million,Athlete,U.S.,5,0,0,99.45079803466797,
+8,Justin Bieber,$83.5 million,Musician,Canada,1,0,4,78.26498413085938,
+9,Dr. Phil McGraw,$79 million,Personality,U.S.,0,5,0,,99.87744903564453
+10,Ellen DeGeneres,$77 million,Personality,U.S.,5,0,0,98.3504653930664,
+11,Bruce Springsteen,$75 million,Musician,U.S.,5,0,0,96.78641204833984,
+12,Adele,$69 million,Musician,U.K.,3,1,1,87.01309458414714,87.249755859375
+13,Jerry Seinfeld,$69 million,Comedian,U.S.,3,2,0,99.73731486002605,99.83574295043945
+14,Mark Wahlberg,$68 million,Actor,U.S.,5,0,0,95.93510131835937,
+15,Dwayne Johnson,$65 million,Actor,U.S.,5,0,0,99.54440460205078,
+16,David Copperfield,$61.5 million,Magician,U.S.,3,1,1,99.3702163696289,95.54704284667969
+17,Kevin Durant,$60.6 million,Athlete,U.S.,5,0,0,99.50605773925781,
+18,Garth Brooks,$60 million,Musician,U.S.,5,0,0,98.78610687255859,
+19,Elton John,$60 million,Musician,U.K.,5,0,0,98.03712615966796,
+20,Gordon Ramsay,$60 million,Personality,U.K.,5,0,0,99.48932342529297,
+21,Ryan Seacrest,$58 million,Personality,U.S.,5,0,0,99.72122802734376,
+22,Chris Rock,$57 million,Comedian,U.S.,5,0,0,97.92973022460937,
+23,Vin Diesel,$54.5 million,Actor,U.S.,5,0,0,99.40110473632812,
+24,Paul McCartney,$54 million,Musician,U.K.,5,0,0,99.79984588623047,
+25,Louis C.K.,$52 million,Comedian,U.S.,5,0,0,99.59246673583985,
+26,Jimmy Buffett,$50.5 million,Musician,U.S.,0,0,5,,
+27,Adam Sandler,$50.5 million,Actor,U.S.,5,0,0,95.76300506591797,
+28,Andrew Luck,$50 million,Athlete,U.S.,5,0,0,98.73112335205079,
