@@ -1,22 +1,31 @@
 # Celebrity_recognition_project
 Introduction:
 In the era of rapidly advancing technology, facial recognition has emerged as a powerful tool, but its potential for bias has raised serious concerns. A study by the National Institute of Standards and Technology (NIST) revealed alarming disparities in the accuracy of facial recognition algorithms across different ethnicities. Notably, Amazon's facial recognition model, Rekognition, was absent from the NIST evaluation, leading to skepticism about its performance. This blog delves into the nuanced issue of racial bias in AI, focusing on AWS's Recognition and its ability to distinguish Asian celebrities compared to their Western counterparts.
+
 The Racial Bias Conundrum:
 The NIST study uncovered a troubling pattern – facial recognition algorithms exhibited significantly higher error rates for African-American and Asian faces in one-to-one matching scenarios. Astonishingly, some algorithms misidentified faces of these ethnicities 10 to 100 times more frequently than Caucasian faces. Amazon's absence from the NIST evaluation leaves a critical gap in understanding the accuracy of its facial recognition model.
+
 The ACLU's Earlier Assessment:
-Adding to the concerns, an assessment by the American Civil Liberties Union (ACLU) revealed the flaws in Rekognition's face-matching capabilities. In a distressing revelation, 28 members of Congress, predominantly people of color, were incorrectly matched with mugshot images. This highlights the real-world implications of biased facial recognition technology and underscores the urgency of addressing these issues (source: ACLU).
+Adding to the concerns, an assessment by the American Civil Liberties Union (ACLU) revealed the flaws in Rekognition's face-matching capabilities. In a distressing revelation, 28 members of Congress, predominantly people of color, were incorrectly matched with mugshot images. This highlights the real-world implications of biased facial recognition technology and underscores the urgency of addressing these issues (source: https://sitn.hms.harvard.edu/flash/2020/racial-discrimination-in-face-recognition-technology/).
+
 Training Set Limitations:
 Facial recognition AI's bias may stem from the limitations of its training set. With Amazon being an American company, the possibility arises that AWS's recognition model was trained on a dataset where Asian faces are a minority. This geographical bias in training data can significantly impact the algorithm's performance and accuracy.
+
 The Developer's Location Matters:
 The NIST's findings also shed light on the impact of a developer's location on the algorithm's accuracy. Algorithms developed in China exhibited lower false positive rates on East Asian faces, emphasizing the role of the developer's location as a proxy for the race demographics in the training data. This revelation, dating back to 2011, underscores the importance of considering the geographical origin of developers in reducing demographic differentials (source: NIST).
+
 Exploring AWS's Recognition Bias: Experiment Part 1
 To investigate AWS's Recognition bias further, we designed an experiment focusing on the recognition of Chinese celebrities compared to their Western counterparts.
+
 Hypothesis:
 We hypothesized that AWS's celebrity recognition would exhibit a lower accuracy rate on top Chinese celebrities compared to top Western celebrities.
+
 Experiment Design:
 We selected six pairs of Chinese celebrity lookalikes, both male and female, and gathered five images of each individual. These images were then fed into AWS's celebrity recognition model, as well as the compare faces model for additional analysis within each doppelganger pair.
+
 Preliminary Results:
 The initial findings are intriguing. Out of the twelve celebrities tested, only three were correctly identified. Moreover, several celebrities were not merely unrecognized but were misidentified, with some Chinese celebrities even being confused with Japanese counterparts. Surprisingly, AWS's Recognition had no difficulty differentiating between members of each doppelganger pair.
+
 Conclusion:
 As we navigate the complex landscape of facial recognition technology, it is evident that biases persist, raising ethical and societal concerns. Our preliminary experiment sheds light on potential shortcomings in AWS's Recognition, particularly in accurately identifying Asian celebrities. Addressing these issues is crucial to ensure fairness and equity in the deployment of facial recognition technology. Stay tuned for the next part of our experiment, where we delve deeper into the intricacies of bias in AWS's Recognition.
 
