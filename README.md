@@ -62,7 +62,7 @@ With our curated dataset in place, we proceeded to feed the images of each celeb
 #### Comparative Analysis
 The final stage involved a comprehensive comparison of the model's accuracy on Chinese and Western celebrities. By assessing the results, we aimed to draw insights into potential discrepancies and biases in AWS's celebrity recognition capabilities.
 
-This is the link to [our analysis]([https://github.com/sophiaxxiao/Celebrity_recognition_project/blob/main/Result%20and%20Analysis.ipynb](https://github.com/sophiaxxiao/Celebrity_recognition_project/blob/main/Results%20and%20Analysis.ipynb)).
+This is the link to [our analysis](https://github.com/sophiaxxiao/Celebrity_recognition_project/blob/main/Results%20and%20Analysis.ipynb).
  
 
 #### Conclusion
