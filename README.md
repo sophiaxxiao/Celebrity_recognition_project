@@ -49,6 +49,9 @@ With our curated dataset in place, we proceeded to feed the images of each celeb
 Comparative Analysis:
 The final stage involved a comprehensive comparison of the model's accuracy on Chinese and Western celebrities. By assessing the results, we aimed to draw insights into potential discrepancies and biases in AWS's celebrity recognition capabilities.
 
+This is the link to [our analysis](https://github.com/sophiaxxiao/Celebrity_recognition_project/blob/e80746cc0277cffb8785cdef7d9a593ac3095106/analyze_celeb_recognition.ipynb).
+ 
+
 Conclusion:
 As we navigate the intricacies of this experiment, the use of Forbes lists adds a valuable dimension to our investigation. By focusing on influential celebrities from both China and the US, we anticipate gaining deeper insights into how AWS's recognition model performs across different cultural and ethnic contexts. Stay tuned for the results and implications uncovered in the subsequent analysis of this experiment.
 
